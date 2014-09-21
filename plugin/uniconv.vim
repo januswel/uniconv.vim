@@ -1,7 +1,7 @@
 " vim plugin file
 " Filename:     uniconv.vim
 " Maintainer:   janus_wel <janus.wel.3@gmail.com>
-" Dependency:
+" Dependency: {{{1
 "   This plugin needs following files
 "
 "   jwlib.vim
@@ -9,7 +9,7 @@
 "       autoload/jwlib/unicode.vim
 "       autoload/jwlib/unicode/namelist.vim
 "       autoload/jwlib/buf/replace.vim
-"
+
 " License:      MIT License {{{1
 "   See under URL.  Note that redistribution is permitted with LICENSE.
 "   http://github.com/januswel/dotfiles/vimfiles/LICENSE
